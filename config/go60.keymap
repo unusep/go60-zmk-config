@@ -1319,7 +1319,7 @@
     &kp BSPC  &HRM_left_pinky_v1B_TKZ LCTRL A  &HRM_left_ring_v1B_TKZ LALT S  &HRM_left_middy_v1B_TKZ LGUI D  &HRM_left_index_v1B_TKZ LSHFT F  &kp G      &kp H  &HRM_right_index_v1B_TKZ RSHFT J  &HRM_right_middy_v1B_TKZ RGUI K  &HRM_right_ring_v1B_TKZ LALT L  &HRM_right_pinky_v1B_TKZ RCTRL P  &kp SQT
     &kp EQUAL         &kp Z         &kp X       &kp C     &kp V       &kp B                                                                                                                          &kp N      &kp M   &kp COMMA       &kp DOT      &kp FSLH  &kp MINUS
                             &to LAYER_Magic  &to LAYER_Gaming  &to LAYER_Default                                                                                                                                     &kp LG(LS(EQUAL))  &kp LG(MINUS)  &kp LG(N0)
-                                                                                       &kp ESC  &space_v3_TKZ LAYER_SYM SPACE  &mkp LCLK      &kp TAB  &space_v3_TKZ LAYER_NUM SPACE  &thumb_v2_TKZ LAYER_NAV RET
+                                                                                       &thumb_v2_TKZ LAYER_NAV ESC  &space_v3_TKZ LAYER_SYM SPACE  &mkp LCLK      &kp TAB  &space_v3_TKZ LAYER_NUM SPACE  &kp RET
             >;
         };
 
