@@ -194,7 +194,7 @@
 
 /* Input Listeners */
 &cirque_lh_listener {
-    input-processors = <&zip_xy_to_scroll_mapper>, <&zip_xy_scaler 1 16>, <&zip_click_to_right_click_mapper>;
+    input-processors = <&zip_xy_to_scroll_mapper>, <&zip_xy_scaler 1 64>, <&zip_click_to_right_click_mapper>;
 };
 
 &cirque_rh_listener {
