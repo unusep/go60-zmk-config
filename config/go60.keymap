@@ -383,7 +383,7 @@
      &kp TAB  &hm_l LCTRL A  &hm_l LALT S  &hm_l LGUI D  &hm_l LSHFT F  &kp G                                                                                                              &kp H   &hm_r RSHFT J  &hm_r RGUI K  &hm_r LALT L  &hm_r RCTRL P    &kp SQT
     &kp EQUAL         &kp Z         &kp X       &kp C     &kp V       &kp B                                                                                                                  &kp N          &kp M     &kp COMMA    &kp DOT   &kp FSLH  &kp MINUS
                             &to LAYER_Magic  &to LAYER_Gaming  &to LAYER_Default                                                                                                                         &kp LG(LS(EQUAL))  &kp LG(MINUS)  &kp LG(N0)
-                                                                                       &thumb_v2_TKZ LAYER_SYM BSPC  &space_v3_TKZ LAYER_NAV ESC  &mkp LCLK      &kp TAB  &space_v3_TKZ LAYER_NUM RET  &kp SPACE
+                                                                                       &thumb_v2_TKZ LAYER_NAV BSPC  &space_v3_TKZ LAYER_SYM ESC  &mkp LCLK      &kp RSHFT  &space_v3_TKZ LAYER_NUM RET  &kp SPACE
             >;
         };
 
